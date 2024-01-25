@@ -1,0 +1,17 @@
+{
+  "name": "slenzy",
+  "version": "1.0.0",
+  "description": "slenzy",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.js": "^14.14.1",
+    "mongoose": "^8.1.1",
+    "utilscord": "^1.6.0"
+  },
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "slenzycode",
+  "license": "MIT"
+}

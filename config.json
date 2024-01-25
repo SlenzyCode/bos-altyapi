@@ -1,0 +1,6 @@
+{
+    "bot": {
+        "token": "bot_tokeni_giriniz",
+        "mongourl": "mongo_url_giriniz"
+    }
+}
